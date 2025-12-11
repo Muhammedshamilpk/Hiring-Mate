@@ -112,7 +112,9 @@ talentscout-hiring-assistant/
 🛠️ Installation & Setup
 
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/talentscout-hiring-assistant
+
 cd talentscout-hiring-assistant
 
 2️⃣ Create and activate a virtual environment
@@ -125,7 +127,7 @@ pip install -r requirements.txt
 
 4️⃣ Add your Groq API Key
 
-Create a file named .env and add:
+Create a file named .env.example and add:
 
 GROQ_API_KEY=your_groq_api_key_here
 
@@ -144,11 +146,17 @@ Hi
 Example:
 
 My name is Shamil.
-Email: shamil@gmail.com
-Phone: 9876543210
+
+Email: demo@gmail.com
+
+Phone: 1247854552
+
 3 years experience
+
 Backend Developer
+
 Location: Kochi
+
 Tech stack: Python, Django, MySQL
 
 3) The bot confirms the collected details
