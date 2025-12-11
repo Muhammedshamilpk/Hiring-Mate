@@ -110,13 +110,14 @@ talentscout-hiring-assistant/
 
 -----------------------------------------
 
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 1️⃣ Clone the repository
 
+'''bash
 git clone https://github.com/your-username/talentscout-hiring-assistant
-
 cd talentscout-hiring-assistant
+'''
 
 2️⃣ Create and activate a virtual environment
 
@@ -198,3 +199,13 @@ All information is saved only in a local JSON file
 API key is stored securely using .env
 
 No cloud-based personal data storage is used
+
+
+## interface (streamlit)
+
+<img width="1098" height="804" alt="Screenshot 2025-12-11 202847" src="https://github.com/user-attachments/assets/e8648599-420b-4d7b-bc9a-1b8e5c7804cb" />
+
+<img width="985" height="899" alt="Screenshot 2025-12-11 204016" src="https://github.com/user-attachments/assets/d337051f-2ad1-4d48-8cf1-68f4ef423894" />
+
+
+
