@@ -162,9 +162,9 @@ Hi
 
 Example:
 
-My name is Shamil.
+My name is john.
 
-Email: demo@gmail.com
+Email: john12@gmail.com
 
 Phone: 1247854552
 
