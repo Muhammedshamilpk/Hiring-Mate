@@ -194,7 +194,7 @@ TalentScout_HiringAssistant/
 ### Example Conversation
 
 ```
-Bot: Hello! I'm the TalentScout Hiring Assistant. What's your name?
+Bot: Hello! I'm the Hiring Mate. What's your name?
 User: John Doe
 
 Bot: Great! What's your email address?
